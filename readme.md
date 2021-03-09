@@ -1,7 +1,7 @@
 # C++ for the 1-st year international students.
 
 ### Links:
-+ Lectures by [Konstantin Leladze](https://t.me/konstantinleladze)): [youtube playlist](https://youtube.com/playlist?list=PL85_gNEP3vgT4sMDXGWdS3o8SYivFbUmf)
++ Lectures by [Konstantin Leladze](https://t.me/konstantinleladze): [youtube playlist](https://youtube.com/playlist?list=PL85_gNEP3vgT4sMDXGWdS3o8SYivFbUmf)
 + Scores: [google spreadsheet](https://docs.google.com/spreadsheets/d/1putjSUgysykspAxpVMU__kzB29lP3fVJa_yxC6WGZhM/edit#gid=0)
 + [Telegram group](https://t.me/joinchat/F2NvpxpdsZj48J62Pl5yzw)
 + [Yandex.Contest](https://contest.yandex.ru/contest/25742/enter?lang=en)
