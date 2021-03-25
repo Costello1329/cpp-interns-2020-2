@@ -8,7 +8,7 @@ In this task you'll have to implement a `bucket_allocator` class.
 + **Allocation**. Let's suppose that user wants to allocate `n` objects. New bucket should be allocated when it is necessary.
     + If `n` is greater than `threshold_size`, you should allocate new bucket of size `n` and 'place' chunk inside of it.
     + Otherwise, you should iterate on all of the buckets (strictly in the order of their creation) and search for a place where to 'allocate' the new chunk.
-        + If there is such place in some bucket, you need to 'allocate' the chunk there and increase `allocations_count` counter by `n`.
+        + If there is such place in some bucket, you need to 'place' the chunk there and increase `allocations_count` counter by `n`.
         + If there is no such place, you should allocate new bucket of size `threshold_size` and 'place' the chunk inside of it.
 + **Deallocation**. You should iterate on all of the buckets (strictly in the order of their creation) and find a bucket which holds a chunk of data that the user wants to deallocate. Let's suppose that user wants to allocate `n` objects. You should increase `deallocation_count` of this bucket by `n`. If new `deallocation_count` counter is now equals to buckets size – you need to deallocate the bucket and then, remove it from the `vector` of buckets.
 + Destructor shouldn't do anything
