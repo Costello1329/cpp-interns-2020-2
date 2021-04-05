@@ -21,4 +21,8 @@ In this task you'll have to implement a `bucket_allocator` class. Before submitt
 + Some tests contain large input data, which makes it impossible to display them with Yandex.Contest in output logs. If you are stuck on some test and you do not see the full output data, please, try to resubmit the same code (od course with minor changes that do not affect the program, but allow you to send the code again). After resubmitting, checker will run other tests (because tests are randomly generated), so after that - enough data can fit into the output log. If even a few resubmits do not help (you are still not able to understand what exactly the error is, since you cannot see the entire log) - please write to us and send the code (in the **same** message, please!). We will run your code locally and send you the output log.
 + This tester is one of the most difficult ones that we have written, so if you find a testing mistake, feel free to write to us (even if our program accepted your wrong code by mistake). We will reward the most discerning students for finding serious bugs in our tester with extra points.
 
-##### Score: 10pts
+#### Score
+10pts
+
+#### Deadline
+End of the semester
