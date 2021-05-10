@@ -3,7 +3,7 @@ In this task you'll have to implement a `smart_ptr` class. Before submitting, pl
 
 ### Problem statement
 + `smart_ptr<vt>` is a template class. `vt` type is guaranteed to be **default constructible** and **destructible** type.
-+ `smart_ptr` class violates the single responsibility pronciple and has two responsibilities:
++ `smart_ptr` class violates the [single responsibility pronciple](https://en.wikipedia.org/wiki/Single-responsibility_principle) and has two responsibilities:
     + `smart_ptr<vt>` class should wrap a raw pointer to an instance of type `vt`
     + `smart_pointer<vt>` class must own a resource of type `vt`.
 + `smart_ptr<vt>` should have only one private member field: raw pointer to vt: `vt* _ptr`.
