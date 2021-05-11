@@ -1,4 +1,4 @@
-# H/w correct bracket sequence
+# H/w Correct bracket sequence
 
 ### Definition:
 Let us define a regular bracket sequence in the following way: 
