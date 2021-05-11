@@ -17,11 +17,11 @@ You are given a non-empty string that contains only 4 characters: `(`, `)`, `[`,
   complexity where `N` is the size of the input string.
 
 ### Examples:
-+ **Input**: `[]`
++ **Input**: `[]`\
   **Output**: `YES`
-+ **Input**: `[()]([](()))`
++ **Input**: `[()]([](()))`\
   **Output**: `YES`
-+ **Input**: `[)(]`
++ **Input**: `[)(]`\
   **Output**: `NO`
 
 #### Score
