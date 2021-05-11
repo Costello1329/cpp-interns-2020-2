@@ -14,7 +14,7 @@ member: `static void reverse (std::forward_list<vt>&) { ... }`.
   complexity where `N` is the size of the list.
 
 #### Score
-16pts
+14pts
 
 #### Deadline
 End of the semester
