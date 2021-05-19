@@ -25,6 +25,8 @@ Your final mark can be calculated with this formula: `x >= 30 ? round(x / 10) : 
 
 ### Copyright
 
+© Konstantin Leladze
+
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 All materials are available under license [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
