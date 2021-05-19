@@ -30,4 +30,4 @@ Your final mark can be calculated with this formula: `x >= 30 ? round(x / 10) : 
 All materials are available under license [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 When borrowing any materials from this repository, you must leave a link to it, also, you should include my name: **Konstantin Leladze**.
 
-© Konstantin Leladze
+__© Konstantin Leladze__
