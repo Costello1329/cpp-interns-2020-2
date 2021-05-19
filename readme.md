@@ -24,5 +24,7 @@ Will be conducted as an online talk. In total, exam costs **30 points**. Each st
 Your final mark can be calculated with this formula: `x >= 30 ? round(x / 10) : retake()` where x is your semester score. 
 
 ##### Copyright
+
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
 All materials are available under license [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
