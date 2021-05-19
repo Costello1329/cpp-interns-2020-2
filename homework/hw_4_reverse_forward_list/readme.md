@@ -8,6 +8,7 @@ member: `static void reverse (std::forward_list<vt>&) { ... }`.
   
 ### Important
 + You are only allowed to include the `<forward_list>` header.
++ It's prohibited to use `std::forward_list<vt>::reverse()` method.
 + You are not allowed to create another lists nor allocate/deallocate the memory on heap. In other
   words, your solution must have `O(1)` space complexity.
 + Your solution must work in linear time. In other words, your solution must have `O(N)` time
