@@ -18,7 +18,7 @@ You'll also have 5 homework tasks during the semester. All homeworks cost 70 poi
 Each deadline will be stated in the correspoding readme.md file of the task.
 
 ##### Exam:
-Will be conducted as an online talk. In total, exam costs **30 points**. Each student will have **30 mins** in order to prepare **2** randomly-assigned questions from the [list]() and **30 mins** to answer the assigned questions. It's not prohibited to use anything during the preparation, but it's prohibited during the answer. Each talk will be conducted as a personal Zoom-meeting, time tables will be posted in the tg-chat before the exam.
+Will be conducted as an online talk. In total, exam costs **30 points**. Each student will have **30 mins** in order to prepare **2** randomly-assigned questions from the [list](https://github.com/Costello1329/cpp-interns-2020-2/blob/master/exam/readme.md) and **30 mins** to answer the assigned questions. It's not prohibited to use anything during the preparation, but it's prohibited during the answer. Each talk will be conducted as a personal Zoom-meeting, time tables will be posted in the tg-chat before the exam.
 
 ##### Final mark:
 Your final mark can be calculated with this formula: `x >= 30 ? round(x / 10) : retake()` where x is your semester score. 
